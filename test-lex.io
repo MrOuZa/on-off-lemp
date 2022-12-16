@@ -1,8 +1,8 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid = "my_arduino";
-const char* password = "0927566556";
+const char* ssid = "";
+const char* password = "";
 
 int ledPin1 = D1; // ขา D1
 int ledPin2 = D2; // ขา D2
